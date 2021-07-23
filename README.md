@@ -11,6 +11,6 @@ I am not responsible for any damage or trouble caused by this script.
 * USB Debugging Enabled on Locked Phone
 
 ## Script Features
-* 4-32 PIN Bruteforce
+* 1-32 PIN Bruteforce
   * Supported on most phones
 * Start on any PIN on range (0000 - 9500)
