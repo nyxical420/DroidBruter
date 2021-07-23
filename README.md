@@ -13,4 +13,4 @@ I am not responsible for any damage or trouble caused by this script.
 ## Script Features
 * 1-32 PIN Bruteforce
   * Supported on most phones
-* Start on any PIN on range (0000 - 9500)
+* Start on any PIN on range (0 - 9500)
