@@ -1,5 +1,5 @@
 # DroidBruter
-DroidBruter is an Android Phone PIN Bruteforcer Tool if you forgot your PIN Code.
+DroidBruter is an Android Phone PIN Bruteforcer Tool if you forgot your phone's PIN Code.
 
 ## Disclaimer
 Please ask for permission first before attempting to bruteforce one of your friend or family's android phones.
