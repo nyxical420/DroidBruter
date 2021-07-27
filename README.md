@@ -29,6 +29,8 @@ I am not responsible for any damage or trouble caused by this script.
   refresh                         Refreshes the DroidBruter Bruteforce Console
   toggleenter <-true | -false>    Presses enter after placing PIN
 ```
+## Changing Pins
+To change pins you can type ``pinlength 6`` in the DroidBruter command line to change pins to 6.
 
 ## DroidBruter Screenshots
 ![DroidBruter Screen](https://user-images.githubusercontent.com/53323309/126936418-ac0fa43f-8edd-4f68-ae4c-b045e8949140.png)
