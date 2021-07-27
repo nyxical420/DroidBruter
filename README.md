@@ -32,6 +32,8 @@ I am not responsible for any damage or trouble caused by this script.
 ## Changing Pins
 To change pins you can type ``pinlength 6`` in the DroidBruter command line to change pins to 6.
 
+Type ``settings`` in the command line to confirm
+
 ## DroidBruter Screenshots
 ![DroidBruter Screen](https://user-images.githubusercontent.com/53323309/126936418-ac0fa43f-8edd-4f68-ae4c-b045e8949140.png)
 ![DroidBruter Help](https://user-images.githubusercontent.com/53323309/126936476-ff27c801-9ac6-4432-9bcd-efb685982cd3.png)
